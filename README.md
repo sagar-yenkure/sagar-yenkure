@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate web developer from pune ,India</h3>
 
-- 🔭 I’m currently working on **Amazon prime clone**
+- 🔭 I’m currently working on **Some Projects**
 
 - 🌱 I’m currently learning **MERN STACK**
 
